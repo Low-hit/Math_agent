@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Find the derivative of sin(x)cos(x)",
+        "expected_answer": "The derivative is cos²(x) - sin²(x)",
+        "difficulty": "medium",
+        "topic": "calculus"
+    },
+    {
+        "text": "Solve the quadratic equation x² - 5x + 6 = 0",
+        "expected_answer": "The solutions are x = 2 and x = 3",
+        "difficulty": "easy",
+        "topic": "algebra"
+    },
+    {
+        "text": "Find the area of a circle with radius 5",
+        "expected_answer": "The area is 25π square units",
+        "difficulty": "easy",
+        "topic": "geometry"
+    },
+    {
+        "text": "Calculate the integral of x² from 0 to 2",
+        "expected_answer": "The integral evaluates to 8/3",
+        "difficulty": "medium",
+        "topic": "calculus"
+    },
+    {
+        "text": "Find the limit of (sin(x))/x as x approaches 0",
+        "expected_answer": "The limit is 1",
+        "difficulty": "hard",
+        "topic": "calculus"
+    }
+] 

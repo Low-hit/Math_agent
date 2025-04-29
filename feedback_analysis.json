@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2025-04-29T16:46:57.997830",
+    "analysis": {
+      "sentiment": "POSITIVE",
+      "confidence": 0.9998513460159302,
+      "feedback": "Helpful: True",
+      "question": "derivative of cot x",
+      "response": {
+        "success": true,
+        "answer": "d/dx(cot(x)) = -csc^2(x)",
+        "steps": [
+          "Fetched from WolframAlpha"
+        ],
+        "source": "Web Search",
+        "feedback": {
+          "timestamp": "2025-04-29T16:46:57.162701",
+          "question": "derivative of cot x",
+          "answer": {
+            "success": true,
+            "answer": "d/dx(cot(x)) = -csc^2(x)",
+            "steps": [
+              "Fetched from WolframAlpha"
+            ],
+            "source": "WolframAlpha"
+          },
+          "user_feedback": {
+            "accuracy": 0,
+            "clarity": 0,
+            "relevance": 0,
+            "comments": ""
+          }
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-29T18:00:32.961243",
+    "analysis": {
+      "sentiment": "POSITIVE",
+      "confidence": 0.9998513460159302,
+      "feedback": "Helpful: True",
+      "question": "derivative of tan x",
+      "response": {
+        "success": true,
+        "answer": "d/dx(tan(x)) = sec^2(x)",
+        "steps": [
+          "Fetched from WolframAlpha"
+        ],
+        "source": "Web Search",
+        "feedback": {
+          "timestamp": "2025-04-29T18:00:32.294867",
+          "question": "derivative of tan x",
+          "answer": {
+            "success": true,
+            "answer": "d/dx(tan(x)) = sec^2(x)",
+            "steps": [
+              "Fetched from WolframAlpha"
+            ],
+            "source": "WolframAlpha"
+          },
+          "user_feedback": {
+            "accuracy": 0,
+            "clarity": 0,
+            "relevance": 0,
+            "comments": ""
+          }
+        }
+      }
+    }
+  }
+]

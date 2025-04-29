@@ -1,0 +1,229 @@
+{
+  "entries": [
+    {
+      "timestamp": "2025-04-29T14:25:50.737302",
+      "question": "derivative of log x",
+      "answer": {},
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T14:26:58.619504",
+      "question": "Calculate \u222bx\u00b2dx from 0 to 2",
+      "answer": {},
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T14:28:44.249178",
+      "question": "Calculate \u222bx\u00b2dx from 0 to 2",
+      "answer": {},
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T14:28:57.251869",
+      "question": "Solve x\u00b2 + 5x + 6 = 0",
+      "answer": {},
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T14:35:23.760989",
+      "question": "derivative of cosec x",
+      "answer": {
+        "question": "What is the derivative of log x?",
+        "answer": "The derivative of log(x) is 1/x.",
+        "steps": [
+          "Recall the derivative rule for logarithmic functions.",
+          "The derivative of log(x) with respect to x is 1/x."
+        ],
+        "similarity": 0.6415094339622641
+      },
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T14:38:42.058068",
+      "question": "derivative of cosine x",
+      "answer": {
+        "question": "What is the derivative of sin(x)?",
+        "answer": "The derivative of sin(x) is cos(x).",
+        "steps": [
+          "Recall the derivative of sin(x) is a standard result.",
+          "The derivative of sin(x) with respect to x is cos(x)."
+        ],
+        "similarity": 0.6545454545454545
+      },
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T14:39:03.784366",
+      "question": "area of square with side 4",
+      "answer": {
+        "question": "area of circle with radius 5",
+        "answer": "The area of a circle with radius 5 is 25\u03c0 or approximately 78.54 square units",
+        "steps": [
+          "Use the formula for area of a circle: A = \u03c0r\u00b2",
+          "Substitute r = 5 into the formula: A = \u03c0(5)\u00b2",
+          "Calculate 5\u00b2 = 25",
+          "Final answer: A = 25\u03c0",
+          "For decimal approximation: 25 * 3.14159 \u2248 78.54"
+        ],
+        "similarity": 0.6666666666666666
+      },
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T14:45:37.572656",
+      "question": "what is derivative of cos x",
+      "answer": {},
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T16:40:38.877349",
+      "question": "derivative of cot x",
+      "answer": {
+        "success": true,
+        "answer": "d/dx(cot(x)) = -csc^2(x)",
+        "steps": [
+          "Fetched from WolframAlpha"
+        ],
+        "source": "WolframAlpha"
+      },
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T16:46:57.162701",
+      "question": "derivative of cot x",
+      "answer": {
+        "success": true,
+        "answer": "d/dx(cot(x)) = -csc^2(x)",
+        "steps": [
+          "Fetched from WolframAlpha"
+        ],
+        "source": "WolframAlpha"
+      },
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T17:04:17.870098",
+      "question": "Solve x\u00b2 + 5x + 6 = 0",
+      "answer": {
+        "question": "Solve x\u00b2 + 5x + 6 = 0",
+        "answer": "The solutions are x = -2 and x = -3.",
+        "steps": [
+          "Factor the quadratic: (x + 2)(x + 3) = 0.",
+          "Set each factor to zero: x + 2 = 0 or x + 3 = 0.",
+          "Solve for x: x = -2 or x = -3."
+        ],
+        "similarity": 1.0
+      },
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T17:41:51.163530",
+      "question": "Calculate \u222bx\u00b2dx from 0 to 2",
+      "answer": {
+        "success": true,
+        "answer": "integral_0^2 x^2 dx = 8/3\u22482.6667",
+        "steps": [
+          "Fetched from WolframAlpha"
+        ],
+        "source": "WolframAlpha"
+      },
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T18:00:18.667856",
+      "question": "derivative of tan x",
+      "answer": {
+        "success": true,
+        "answer": "d/dx(tan(x)) = sec^2(x)",
+        "steps": [
+          "Fetched from WolframAlpha"
+        ],
+        "source": "WolframAlpha"
+      },
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    },
+    {
+      "timestamp": "2025-04-29T18:00:32.294867",
+      "question": "derivative of tan x",
+      "answer": {
+        "success": true,
+        "answer": "d/dx(tan(x)) = sec^2(x)",
+        "steps": [
+          "Fetched from WolframAlpha"
+        ],
+        "source": "WolframAlpha"
+      },
+      "user_feedback": {
+        "accuracy": 0,
+        "clarity": 0,
+        "relevance": 0,
+        "comments": ""
+      }
+    }
+  ]
+}
